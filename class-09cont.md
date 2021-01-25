@@ -11,10 +11,10 @@
       known as HTTP headers.
 2. You can use the maxlength attribute to limit the numberof characters a user may enter
    into the text field. 
-3. The "<textarea>" element is used to create a mutli-line
+3. The "textarea" element is used to create a mutli-line
    text input.
-4. The "<select>" element is used to create a drop down list box.
-5. You can group related form controls together inside the "<fieldset>" element. This is
+4. The "select" element is used to create a drop down list box.
+5. You can group related form controls together inside the "fieldset" element. This is
    particularly helpful for longer forms.
 
 
