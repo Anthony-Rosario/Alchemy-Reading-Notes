@@ -18,3 +18,5 @@
     - function context
     - eval context
 5. console.log is your best friend
+6. Breakpoints stop the execution of code on any line
+7. You can create a breakpoint in your code using just the debugger keyword.
